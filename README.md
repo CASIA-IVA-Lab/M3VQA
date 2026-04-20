@@ -2,7 +2,7 @@
 
 This is the official repository for the paper "M<sup>3</sup>-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering" (ACL2026main).
 
-[[Paper]]() [[Code]]() [[Dataset]]()
+[[Paper]]() [[Code]](https://github.com/CASIA-IVA-Lab/M3VQA) [[Dataset]](https://huggingface.co/datasets/CASIA-IVA-Lab/M3VQA)
 
 
 <p align="center">
