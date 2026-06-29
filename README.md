@@ -2,7 +2,7 @@
 
 This is the official repository for the paper "M<sup>3</sup>-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering" (ACL2026main).
 
-[[Paper]]() [[Code]](https://github.com/CASIA-IVA-Lab/M3VQA) [[Dataset]](https://huggingface.co/datasets/CASIA-IVA-Lab/M3VQA)
+[[Paper]](https://arxiv.org/abs/2604.25122) [[Code]](https://github.com/CASIA-IVA-Lab/M3VQA) [[Dataset]](https://huggingface.co/datasets/CASIA-IVA-Lab/M3VQA)
 
 
 <p align="center">
@@ -106,7 +106,13 @@ We would like to thank the following open-source projects for their valuable con
 ## 📑 Citation
 If you find this work helpful, please cite using this BibTeX:
 ```
-
+@inproceedings{ma2026m3,
+  title={M3-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering},
+  author={Ma, Jiatong and Guo, Longteng and Liu, Yuchen and Zhao, Zijia and Hao, Dongze and Lin, Xuanxu and Liu, Jing},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={40633--40669},
+  year={2026}
+}
 ```
 
 ## ✉️ Contact
